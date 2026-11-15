@@ -30,6 +30,7 @@ Single-page website for Britt's Home Cleaning. White / black / blush pink, mobil
 6. Final cancellation/rescheduling policy confirmation
 7. ~~Social media links~~ — SET 2026-11-15: Instagram @brittshomecleaning
 8. Owner/team photo for the About section (placeholder photo used until supplied)
+9. Booking window: how far ahead customers may book (60 or 90 days is typical) — enforced by BookGrid at launch; the preview form currently allows any future date
 
 ## Custom domain (after approval)
 Buy the domain, then point it at the host (GitHub Pages or Render) and update the repo's Pages custom-domain setting — no site changes needed.
