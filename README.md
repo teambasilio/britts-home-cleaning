@@ -22,13 +22,13 @@ Single-page website for Britt's Home Cleaning. White / black / blush pink, mobil
 - Contact form delivery to the business email
 
 ## Before launch — details to confirm with the owner
-1. Business phone number for Call/Text (set `CONFIG.phoneDisplay` / `CONFIG.phoneLink` at the top of the script in `index.html` — the buttons activate automatically)
-2. Service area (`CONFIG.serviceArea`)
+1. ~~Business phone number~~ — SET 2026-11-15 from her Instagram bio: (505) 635-2523 (Call/Text buttons live)
+2. ~~Service area~~ — SET 2026-11-15: San Juan County
 3. Business email for booking notifications and the contact form
 4. Regular pricing after the November 2026 specials
 5. Booking availability: days/hours open, closed weekdays (`CONFIG.closedWeekdays`, `CONFIG.slots`)
 6. Final cancellation/rescheduling policy confirmation
-7. Social media links
+7. ~~Social media links~~ — SET 2026-11-15: Instagram @brittshomecleaning
 8. Owner/team photo for the About section (placeholder photo used until supplied)
 
 ## Custom domain (after approval)
